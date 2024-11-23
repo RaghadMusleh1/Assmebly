@@ -1,4 +1,4 @@
-# Assembly Project 
+#  MIPS 
 
 assembly code that performs the following tasks:
 
